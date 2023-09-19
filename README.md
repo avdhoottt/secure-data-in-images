@@ -1,5 +1,7 @@
 # Securing Data in Images using Advanced Encryption Standard
 
+![Screenshot](ink.png)
+
 In today's digital age, the protection of sensitive information is of utmost importance. Data breaches and cyber attacks are on the rise, making it crucial to secure data effectively. This project presents a software tool developed in Python that employs the Advanced Encryption Standard (AES) algorithm and image steganography to encrypt text data and securely store it within images. This approach enhances data privacy and digital security by safeguarding confidential information from unauthorized access.
 
 ## Features
